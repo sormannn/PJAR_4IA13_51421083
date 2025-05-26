@@ -1,4 +1,4 @@
-# PJAR_4IA13_51421083
+# PJAR_4IA13_51421083_MUHAMMAD SURYANDOKO
 Client Server Networking
 Apa itu? Client-Server Networking adalah model jaringan di mana komunikasi dan pembagian tugas terjadi antara dua jenis perangkat utama: client (klien) dan server (peladen).
 
